@@ -1,0 +1,15 @@
+D:\GeakBrains\Знакомвство C#\Семинары\1 seminar\1 Task\bin\Debug\net7.0\1 Task.exe
+D:\GeakBrains\Знакомвство C#\Семинары\1 seminar\1 Task\bin\Debug\net7.0\1 Task.deps.json
+D:\GeakBrains\Знакомвство C#\Семинары\1 seminar\1 Task\bin\Debug\net7.0\1 Task.runtimeconfig.json
+D:\GeakBrains\Знакомвство C#\Семинары\1 seminar\1 Task\bin\Debug\net7.0\1 Task.dll
+D:\GeakBrains\Знакомвство C#\Семинары\1 seminar\1 Task\bin\Debug\net7.0\1 Task.pdb
+D:\GeakBrains\Знакомвство C#\Семинары\1 seminar\1 Task\obj\Debug\net7.0\1 Task.csproj.AssemblyReference.cache
+D:\GeakBrains\Знакомвство C#\Семинары\1 seminar\1 Task\obj\Debug\net7.0\1 Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeakBrains\Знакомвство C#\Семинары\1 seminar\1 Task\obj\Debug\net7.0\1 Task.AssemblyInfoInputs.cache
+D:\GeakBrains\Знакомвство C#\Семинары\1 seminar\1 Task\obj\Debug\net7.0\1 Task.AssemblyInfo.cs
+D:\GeakBrains\Знакомвство C#\Семинары\1 seminar\1 Task\obj\Debug\net7.0\1 Task.csproj.CoreCompileInputs.cache
+D:\GeakBrains\Знакомвство C#\Семинары\1 seminar\1 Task\obj\Debug\net7.0\1 Task.dll
+D:\GeakBrains\Знакомвство C#\Семинары\1 seminar\1 Task\obj\Debug\net7.0\refint\1 Task.dll
+D:\GeakBrains\Знакомвство C#\Семинары\1 seminar\1 Task\obj\Debug\net7.0\1 Task.pdb
+D:\GeakBrains\Знакомвство C#\Семинары\1 seminar\1 Task\obj\Debug\net7.0\1 Task.genruntimeconfig.cache
+D:\GeakBrains\Знакомвство C#\Семинары\1 seminar\1 Task\obj\Debug\net7.0\ref\1 Task.dll
